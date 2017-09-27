@@ -1,0 +1,110 @@
+References
+
+
+
+Here is the list of references - including Web sites, books, blog posts - used
+
+
+for the project Data Wrangling with Nanterre data set.
+
+
+
+
+Executing Data Quality Projects:
+
+http://booksite.elsevier.com/9780123743695/
+
+
+OpenStreetMap 
+
+Site:
+https://www.openstreetmap.org/
+
+
+Map Zen 
+
+Site for download:
+https://mapzen.com
+
+
+WikiOSM 
+
+Site:
+https://wiki.openstreetmap.org
+
+
+Relevant 
+
+Repository
+
+https://github.com/osm-fr/bano/blob/master/bis_ter_quater.py
+
+https://github.com/deep-diver/Openstreetmap_wrangling
+
+https://github.com/georgenizharadze/OpenStreetMap-data-wrangling-and-SQL
+
+https://github.com/jm974/openstreetmap/blob/master/OpenStreetMap.ipynb
+
+
+
+
+BANO Wiki on list of addresses (BANO/OpenData):
+
+http://wiki.openstreetmap.org/wiki/WikiProject_France/WikiProject_Base_Adresses_Nationale_Ouverte
+
+
+
+
+
+French types of streets
+http://wronecki.pagesperso-orange.fr/frederic/voies/index.htm
+
+
+
+XML 
+
+Resources: Tutorial on W3Schools:
+
+http://www.w3schools.com/xml/xml_whatis.asp
+
+
+
+
+
+XML Resources: 2nd Tutorial on tizag.com:
+
+http://www.tizag.com/xmlTutorial/index.php
+
+
+
+
+Wiki on Python and XML:
+
+https://wiki.python.org/moin/PythonXml
+
+
+
+
+Element Tree Documentation:
+
+https://docs.python.org/2/library/xml.etree.elementtree.html#module-xml.etree.ElementTree
+
+
+
+
+Testing Regular Expressions for Regex:
+
+https://pythex.org/
+
+
+
+
+SQL Schema used:
+https://gist.github.com/swwelch/f1144229848b407e0a5d13fcb7fbbd6f
+
+
+
+
+Issues with unicode:
+
+https://stackoverflow.com/questions/14079343/python-windows-ansi-encoding-again
